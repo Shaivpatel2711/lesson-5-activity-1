@@ -22,3 +22,10 @@ else :
         print("this number is less than 20")
         print("this is in the else block")
 print("it not int the if block or else block")
+#Activty 4
+can = int(input("enter the value of can :"))
+print("the nuber to be check is" , can)
+if can%2==0 :
+    print("this number is even")
+else :
+    print("this number is odd")
