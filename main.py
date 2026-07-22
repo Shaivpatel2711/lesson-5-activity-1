@@ -13,3 +13,12 @@ if sale_amount > actual_cost :
     print("the profit is:", profit)
 else :
     print("no profit only loss")
+    #activity 3
+hi = int(input("enter the value of hi"))
+if hi > 20 :
+        print("this number is greater than 20")
+        print("this is in the if block")
+else :
+        print("this number is less than 20")
+        print("this is in the else block")
+print("it not int the if block or else block")
